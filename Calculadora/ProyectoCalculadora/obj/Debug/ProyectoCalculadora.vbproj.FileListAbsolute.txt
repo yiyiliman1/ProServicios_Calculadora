@@ -1,0 +1,24 @@
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.vbproj.AssemblyReference.cache
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.formPrincipal.resources
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Resources.resources
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.vbproj.GenerateResource.cache
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.vbproj.CoreCompileInputs.cache
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe.config
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.xml
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.exe
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.xml
+E:\DAM2\DESARROLLO DE INTERFACES\UND1\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.pdb
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe.config
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.xml
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.vbproj.AssemblyReference.cache
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.formPrincipal.resources
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Resources.resources
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.vbproj.GenerateResource.cache
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.vbproj.CoreCompileInputs.cache
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.exe
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.xml
+C:\Users\lili\Downloads\DAM2_DesarrolloInterfaces_Calculadora_AlexandraMacedo\Calculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.pdb
